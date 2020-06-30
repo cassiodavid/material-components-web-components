@@ -18,6 +18,7 @@
   "dependencies": {
     "@material/linear-progress": "=8.0.0-canary.610c26c4a.0",
     "@material/mwc-base": "^0.17.0",
+    "@material/theme": "=8.0.0-canary.610c26c4a.0",
     "lit-element": "^2.3.0",
     "tslib": "^1.10.0"
   },

@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [v0.17.0] - 2020-01-01
 
+### Added
+
+- `linear-progress`
+  - theming sass helpers.
+
 ### Changed
 
 - `notched-outline`
